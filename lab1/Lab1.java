@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Lab1 {
     public static void main(String[] args) {
-        String input = "Hello абракадабра world apPle te3st code java queue"; // приклад
+        String input = "Hello абракадабра world apPle te3st code java queue";
 
         String[] result = findWords(input);
 
