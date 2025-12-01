@@ -8,7 +8,6 @@
     <groupId>lab3</groupId>
     <artifactId>lab3</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <build>
         <plugins>
             <plugin>
