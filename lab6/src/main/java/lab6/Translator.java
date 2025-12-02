@@ -20,7 +20,7 @@ public class Translator {
             if (dictionary.containsKey(w)) {
                 result.append(dictionary.get(w));
             } else {
-                result.append("[").append(w).append("]"); // слово не знайдено
+                result.append("[").append(w).append("]");
             }
             result.append(" ");
         }
